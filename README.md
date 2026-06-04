@@ -268,3 +268,17 @@ Este proyecto me permitió adquirir experiencia práctica en:
 # Contexto
 
 Proyecto desarrollado durante mis prácticas del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), participando en el diseño e implementación de una solución cloud para la automatización de procesos de carga y transformación de datos sobre Google Cloud Platform.
+
+---
+
+# Capturas del proceso
+
+<img width="601" height="129" alt="image" src="https://github.com/user-attachments/assets/5441c519-9198-4172-a67b-e042f7c59069" />
+
+<img width="601" height="280" alt="image" src="https://github.com/user-attachments/assets/f926ad42-f875-4389-afc0-4dc293dc5368" />
+
+<img width="601" height="116" alt="image" src="https://github.com/user-attachments/assets/e5c685d8-40c2-4d39-900d-c55bd842a0d8" />
+
+<img width="601" height="114" alt="image" src="https://github.com/user-attachments/assets/b53b1ea6-aa20-437b-b237-89a4b40613b2" />
+
+<img width="601" height="157" alt="image" src="https://github.com/user-attachments/assets/fb737062-dea4-4ecb-b47d-eb53d32ff8a8" />
