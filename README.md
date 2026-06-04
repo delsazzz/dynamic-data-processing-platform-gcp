@@ -81,6 +81,8 @@ Cloud Run Service
 Notificación por correo electrónico
 ```
 
+<img width="1536" height="1024" alt="1777278933959" src="https://github.com/user-attachments/assets/d81dd273-70ec-483a-a6c8-84a795fb252f" />
+
 ---
 
 # Funcionalidades principales
